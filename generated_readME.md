@@ -12,12 +12,12 @@
 
 ## Description
 
-  created readMe's
+  Allows me to generate readMe's
 
 
     ## License
     
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![License: Open Data Commons Attribution](https://img.shields.io/badge/License-ODC_BY-brightgreen.svg)](https://opendatacommons.org/licenses/by/)
     
     
 
@@ -27,7 +27,7 @@ N/A
 
 ## Usage
 
-  its easy 
+  You use node.js and inquirer to answer a series of prompts corelating to your project and it will log the answers into a readMe template
 
 
 ## Tests

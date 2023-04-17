@@ -59,9 +59,9 @@ const generateLicenseSection = (badge) => {
   } else {
 
     return `
-    ## License
+## License
     
-    ${badge}
+${badge}
     
     `
   }
